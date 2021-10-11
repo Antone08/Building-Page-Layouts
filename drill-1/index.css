@@ -1,0 +1,29 @@
+html{
+    background-color:grey;
+}
+
+h1{
+background-color: black;
+width: 120%;
+height: 250px;
+margin-top: -20px;
+margin-left: -10px;
+}
+
+h2{
+    background-color: white;
+    width: 75%;
+    height: 950px;
+    margin-top: -21px;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+h3{
+    background-color: black;
+    width: 75%;
+    height: 150px;
+    margin-top: -50px;
+    margin-left: 15%;
+    margin-right: 15%;
+}
